@@ -19,4 +19,5 @@ You can also reach me at:
 💡 "Programming is thinking, not typing "
 
 Let's bring our ideas to life! 💪💻🌟
-
+  
+![boy_anime](https://github.com/FlunityX/FlunityX/assets/149858650/7c651804-fc5c-4584-b8b4-ad2fe4c5ea3c)
