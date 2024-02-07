@@ -3,7 +3,7 @@ I'm Nguyen Manh! 👋
 🚀 About Me
 I'm a game developer... 👋 Hello there! I'm Nguyen Van Manh, a student at Lac Hong University.
 
-I'm passionate about game development using Unity and Godot.
+I'm passionate about game development using Unity and Cocos Creator.
 
 Currently, I'm actively learning and expanding my knowledge in these platforms.
 
